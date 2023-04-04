@@ -42,6 +42,8 @@ body {
     font-size: 24px;
     font-style: italic;
     margin-top: 10px;
+    padding: 5px;
+    border: #b962c5 3px double;
   }
   .album p {
     font-size: 16px;
