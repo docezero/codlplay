@@ -6,9 +6,18 @@ body {
   header {
     background-color: #b962c5;
     color: #fff;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
   }
+
+    a {
+      color: #fff;
+      padding-left: 20mm;
+      padding-right: 20mm;
+      padding-bottom: 0;
+      padding-top: 0; 
+  }
+
   h1 {
     font-size: 48px;
     margin: 0;
@@ -45,3 +54,5 @@ padding: 10px;
 background-color: #b962c5;
 color: #fff;
   }
+
+ 
