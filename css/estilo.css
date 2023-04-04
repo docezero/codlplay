@@ -38,3 +38,10 @@ body {
     font-size: 16px;
     margin: 10px 0;
   }
+
+  footer {
+text-align: center;
+padding: 10px;
+background-color: #b962c5;
+color: #fff;
+  }
